@@ -1,6 +1,5 @@
 # README
 
-## Practices done on Datasets
+## Practice Projects
 
-This Folder has Notebooks copies of my prectics done on dataset <br>
-available on Kaggle Datasets.
+This Folder has Notebooks copies & files  related to the projects done on differents datasets.<br>
